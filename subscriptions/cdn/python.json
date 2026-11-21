@@ -1,0 +1,12 @@
+{
+  "format": "lume.total-subscription",
+  "version": 1,
+  "sections": {
+    "comic": [
+      "https://cdn.jsdelivr.net/gh/kiseding/LumeBox-Sources@main/subscriptions/cdn/python-comic.7cba8f61.txt"
+    ],
+    "video": [
+      "https://cdn.jsdelivr.net/gh/kiseding/LumeBox-Sources@main/subscriptions/cdn/python-video.08c705c0.txt"
+    ]
+  }
+}

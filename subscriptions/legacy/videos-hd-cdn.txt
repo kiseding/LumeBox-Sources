@@ -1,0 +1,27 @@
+// LumeBox 高清影视 订阅清单（CDN 线路，25 个源）
+
+https://raw.githubusercontent.com/kiseding/LumeBox-Sources/main/video/4kvm.js
+https://raw.githubusercontent.com/kiseding/LumeBox-Sources/main/video/bahaotv.js
+https://raw.githubusercontent.com/kiseding/LumeBox-Sources/main/video/bfzy.js
+https://raw.githubusercontent.com/kiseding/LumeBox-Sources/main/video/bttwo.js
+https://raw.githubusercontent.com/kiseding/LumeBox-Sources/main/video/czzy.js
+https://raw.githubusercontent.com/kiseding/LumeBox-Sources/main/video/didahd.js
+https://raw.githubusercontent.com/kiseding/LumeBox-Sources/main/video/dongpiandi.js
+https://raw.githubusercontent.com/kiseding/LumeBox-Sources/main/video/duoduo.js
+https://raw.githubusercontent.com/kiseding/LumeBox-Sources/main/video/gimy.js
+https://raw.githubusercontent.com/kiseding/LumeBox-Sources/main/video/gz360.js
+https://raw.githubusercontent.com/kiseding/LumeBox-Sources/main/video/gztv5.js
+https://raw.githubusercontent.com/kiseding/LumeBox-Sources/main/video/iyf.js
+https://raw.githubusercontent.com/kiseding/LumeBox-Sources/main/video/juzhi4k.js
+https://raw.githubusercontent.com/kiseding/LumeBox-Sources/main/video/kanju-ai.js
+https://raw.githubusercontent.com/kiseding/LumeBox-Sources/main/video/kkys.js
+https://raw.githubusercontent.com/kiseding/LumeBox-Sources/main/video/kpkuang.js
+https://raw.githubusercontent.com/kiseding/LumeBox-Sources/main/video/libvio.js
+https://raw.githubusercontent.com/kiseding/LumeBox-Sources/main/video/ppnix.js
+https://raw.githubusercontent.com/kiseding/LumeBox-Sources/main/video/ptt-drama.js
+https://raw.githubusercontent.com/kiseding/LumeBox-Sources/main/video/qqys01.js
+https://raw.githubusercontent.com/kiseding/LumeBox-Sources/main/video/tingyou.js
+https://raw.githubusercontent.com/kiseding/LumeBox-Sources/main/video/wbbb.js
+https://raw.githubusercontent.com/kiseding/LumeBox-Sources/main/video/yingshidao.js
+https://raw.githubusercontent.com/kiseding/LumeBox-Sources/main/video/ziziys.js
+https://raw.githubusercontent.com/kiseding/LumeBox-Sources/main/video/zy360.js

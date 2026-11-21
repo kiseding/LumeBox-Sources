@@ -1,0 +1,18 @@
+{
+  "format": "lume.total-subscription",
+  "version": 1,
+  "sections": {
+    "comic": [
+      {
+        "url": "https://raw.githubusercontent.com/kiseding/LumeBox-Sources/main/subscriptions/comics.txt",
+        "enabled": true
+      }
+    ],
+    "video": [
+      {
+        "url": "https://raw.githubusercontent.com/kiseding/LumeBox-Sources/main/subscriptions/videos.txt",
+        "enabled": true
+      }
+    ]
+  }
+}

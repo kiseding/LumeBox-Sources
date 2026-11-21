@@ -1,0 +1,7 @@
+// LumeBox 综合源 订阅清单（CDN 线路，5 个源）
+
+https://raw.githubusercontent.com/kiseding/LumeBox-Sources/main/video/mycall.js
+https://raw.githubusercontent.com/kiseding/LumeBox-Sources/main/video/tingyou.js
+https://raw.githubusercontent.com/kiseding/LumeBox-Sources/main/video/uaa.js
+https://raw.githubusercontent.com/kiseding/LumeBox-Sources/main/video/yeshezy.js
+https://raw.githubusercontent.com/kiseding/LumeBox-Sources/main/comic/cool18.js
